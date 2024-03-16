@@ -30,16 +30,16 @@ body {
   box-shadow: 2px 2px 5px 10px rgba(0, 0, 0, 0.232);
 }
 
-#sim,
-#sim2 {
+#symbol,
+#symbol2 {
   font-size: 130px;
 }
 
-#carta {
+#card {
   font-size: 150px;
   font-family: Playfair Display, sans-serif;
 }
 
-#sim2 {
+#symbol2 {
   transform: rotate(180deg);
 }
